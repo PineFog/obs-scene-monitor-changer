@@ -1,0 +1,14 @@
+{
+    "enabled": true,
+    "obs_password": "FILL THIS IN YO AND MAYBE REPLACE THE MAPPINGS TO YOUR SATISFACTION",
+    "mappings": [
+        {
+            "monitor_name": "\\\\.\\DISPLAY9",
+            "obs_scene_name": "Top Monitor"
+        },
+        {
+            "monitor_name": "\\\\.\\DISPLAY7",
+            "obs_scene_name": "Webcam - Matrix"
+        }
+    ]
+}
