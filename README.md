@@ -1,4 +1,4 @@
-# OBS-Scene-Monitor-Changer
+# obs-scene-monitor-changer
 ## Purpose 
 Change OBS scene based on which monitor your mouse cursor resides
 
